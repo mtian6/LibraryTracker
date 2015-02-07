@@ -1,0 +1,46 @@
+.book-preview-image
+{
+  height: 200px;
+}
+
+.book-preview-image:hover
+{
+  opacity: .75;
+}
+
+.quick-stats-number
+{
+  font-size: 30px;
+  display: block;
+  text-align: center;
+  padding-bottom: 8px;
+}
+
+.page-home-title
+{
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+}
+
+.page-home-description
+{
+  text-align: center;
+  padding: 10px;
+}
+.quick-stats-box 
+{
+  background-color: #d3d3d3;
+  padding: 10px 0px;
+}
+.quick-stats-text
+{
+  display: block;
+  font-size: 12px;
+  text-align: center;
+}
+
+#quick-stats-area
+{
+  padding: 20px 0px;
+}
