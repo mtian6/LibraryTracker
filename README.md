@@ -48,3 +48,4 @@ Low Priority:
 ==== Contributors ====
 
 Emily Tran (etran5)
+Emily Chao (elchao96)
