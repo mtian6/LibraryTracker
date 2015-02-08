@@ -52,4 +52,8 @@ Emily Chao (elchao96)
 Xue Zou (xuezou3)
 Angela Lin Ding (alding2)
 Eva Shih (eshih3)
+<<<<<<< HEAD
 Jenny Cheng (jrcheng3)
+=======
+Robin Sturm (rsturm2)
+>>>>>>> 1ea129f5d1b39def6f5dc97d0338f473fb8a62ef
