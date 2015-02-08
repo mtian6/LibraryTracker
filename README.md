@@ -50,5 +50,6 @@ Low Priority:
 Emily Tran (etran5)
 Emily Chao (elchao96)
 Xue Zou (xuezou3)
+Angela Lin Ding (alding2)
 Eva Shih (eshih3)
 Jenny Cheng (jrcheng3)
