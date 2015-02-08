@@ -46,7 +46,6 @@ Low Priority:
 - Enter a NetID and see First and Last name pulled from the Illinois Directory
 
 ==== Contributors ====
-
 - Emily Tran (etran5)
 - Emily Chao (elchao96)
 - Xue Zou (xuezou3)
@@ -55,3 +54,4 @@ Low Priority:
 - Robin Sturm (rsturm2)
 - Ranran Li (rli17)
 - Menglin Tian (mtian6)
+- Chenying He (che12)
