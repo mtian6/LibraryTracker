@@ -69,3 +69,5 @@ Low Priority:
 - Karunya Tota (tota2)
 - April Xu (aprilxu2)
 - Brittany Kane (blkane2)
+- Lily Sellers (lseller2)
+
