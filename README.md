@@ -34,13 +34,13 @@ Once done, commit the simple text change back to be merged into the master branc
 
 Sign up for a feature or task to contribute to the project.
 
-High Priority: 
-
+High Priority:
+=======
 - Admin login for WCS officers (Jenny Cheng)
 - Click to email students with overdue book reminders 
-- Automatically email students with books due in x days 
+- Automatically email students with books due in x days (Angela Lin Ding)
 - Request a Book (Robin Sturm)
-- Pulling Book Data via Google API for auto-fill 
+- Pulling Book Data via Google API for auto-fill
 - Click to see who has checked out a book
 - Styling the entire web page with a theme that matches WCS
 - Functionality to put a book on hold 
@@ -51,6 +51,7 @@ Low Priority:
 - Enter a NetID and see First and Last name pulled from the Illinois Directory
 
 ==== Contributors ====
+
 - Emily Tran (etran5)
 - Emily Chao (elchao96)
 - Xue Zou (xuezou3)
@@ -61,3 +62,4 @@ Low Priority:
 - Menglin Tian (mtian6)
 - Chenying He (che12)
 - Jenny Cheng (jrcheng3)
+- Karunya Tota (tota2)
