@@ -47,10 +47,11 @@ Low Priority:
 
 ==== Contributors ====
 
-Emily Tran (etran5)
-Emily Chao (elchao96)
-Xue Zou (xuezou3)
-Angela Lin Ding (alding2)
-Eva Shih (eshih3)
-Robin Sturm (rsturm2)
-Ranran Li (rli17)
+- Emily Tran (etran5)
+- Emily Chao (elchao96)
+- Xue Zou (xuezou3)
+- Angela Lin Ding (alding2)
+- Eva Shih (eshih3)
+- Robin Sturm (rsturm2)
+- Ranran Li (rli17)
+- Menglin Tian (mtian6)
