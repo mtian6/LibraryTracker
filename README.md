@@ -50,4 +50,8 @@ Low Priority:
 Emily Tran (etran5)
 Emily Chao (elchao96)
 Xue Zou (xuezou3)
+<<<<<<< HEAD
 Angela Lin Ding (alding2)
+=======
+Eva Shih (eshih3)
+>>>>>>> a8f5512e6e59fdb7344013552cfeaeb504e5a25f
