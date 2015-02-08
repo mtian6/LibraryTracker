@@ -31,7 +31,7 @@ Sign up for a feature or task to contribute to the project.
 
 High Priority: 
 
-- Admin login for WCS officers
+- Admin login for WCS officers (Brittany Kane)
 - Click to email students with overdue book reminders 
 - Automatically email students with books due in x days 
 - Request a Book
