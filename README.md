@@ -24,6 +24,11 @@ you should make sure you can contribute code via version control.
 The first task is to add your name to the contributor's list. 
 Once done, commit the simple text change back to be merged into the master brance. 
 
+1. On the github website, fork the master LibraryTracker directory. You should now have yourusername/LibraryTracker
+2. Now git clone your version of LibraryTracker to your machine and then use a text editor (sublime or vim) to add your name to the README.md file
+3. git add . 
+4. git commit -m "meaningful commit message here"
+5. git push
 
 === Next Steps ====
 
