@@ -31,7 +31,7 @@ Sign up for a feature or task to contribute to the project.
 
 High Priority: 
 
-- Admin login for WCS officers
+- Admin login for WCS officers (Jenny Cheng)
 - Click to email students with overdue book reminders 
 - Automatically email students with books due in x days 
 - Request a Book (Robin Sturm)
@@ -46,11 +46,13 @@ Low Priority:
 - Enter a NetID and see First and Last name pulled from the Illinois Directory
 
 ==== Contributors ====
-
-Emily Tran (etran5)
-Emily Chao (elchao96)
-Xue Zou (xuezou3)
-Angela Lin Ding (alding2)
-Eva Shih (eshih3)
-Robin Sturm (rsturm2)
-Jenny Cheng	(jrcheng3)
+- Emily Tran (etran5)
+- Emily Chao (elchao96)
+- Xue Zou (xuezou3)
+- Angela Lin Ding (alding2)
+- Eva Shih (eshih3)
+- Robin Sturm (rsturm2)
+- Ranran Li (rli17)
+- Menglin Tian (mtian6)
+- Chenying He (che12)
+- Jenny Cheng (jrcheng3)
