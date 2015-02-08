@@ -36,11 +36,11 @@ Sign up for a feature or task to contribute to the project.
 
 High Priority: 
 
-- Admin login for WCS officers
+- Admin login for WCS officers 
 - Click to email students with overdue book reminders 
-- Automatically email students with books due in x days 
+- Automatically email students with books due in x days (Angela Lin Ding)
 - Request a Book (Robin Sturm)
-- Pulling Book Data via Google API for auto-fill 
+- Pulling Book Data via Google API for auto-fill
 - Click to see who has checked out a book
 - Styling the entire web page with a theme that matches WCS
 - Functionality to put a book on hold 
