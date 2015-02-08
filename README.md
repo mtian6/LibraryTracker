@@ -36,7 +36,11 @@ Sign up for a feature or task to contribute to the project.
 
 High Priority: 
 
+<<<<<<< HEAD
 - Admin login for WCS officers 
+=======
+- Admin login for WCS officers (Brittany Kane)
+>>>>>>> 1c07109509cb2ecba039cc0be4ffa9989b686302
 - Click to email students with overdue book reminders 
 - Automatically email students with books due in x days (Angela Lin Ding)
 - Request a Book (Robin Sturm) (April Xu)
@@ -64,3 +68,4 @@ Low Priority:
 - Jenny Cheng (jrcheng3)
 - Karunya Tota (tota2)
 - April Xu (aprilxu2)
+- Brittany Kane (blkane2)
