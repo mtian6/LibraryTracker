@@ -29,10 +29,9 @@ Once done, commit the simple text change back to be merged into the master branc
 3. git add . 
 4. git commit -m "meaningful commit message here"
 5. git push
-
-If you want to get the latest version, 
-git remote add upstream https://github.com/IllinoisWCS/LibraryTracker.git
-git pull upstream master
+6. If you want to get the latest version, 
+- git remote add upstream https://github.com/IllinoisWCS/LibraryTracker.git
+- git pull upstream master
 
 === Next Steps ====
 
