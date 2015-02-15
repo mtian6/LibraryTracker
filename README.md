@@ -32,6 +32,7 @@ Once done, commit the simple text change back to be merged into the master branc
 
 If you want to get the latest version: 
   git remote add upstream https://github.com/IllinoisWCS/LibraryTracker.git
+  
   git pull upstream master
 
 === Next Steps ====
