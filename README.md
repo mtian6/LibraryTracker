@@ -41,7 +41,7 @@ High Priority:
 - Automatically email students with books due in x days (Angela Lin Ding)
 - Request a Book (Robin Sturm)
 - Pulling Book Data via Google API for auto-fill
-- Click to see who has checked out a book (Karunya Tota)
+- Click to see who has checked out a book
 - Styling the entire web page with a theme that matches WCS
 - Functionality to put a book on hold 
 - Hooking up the book stats 
