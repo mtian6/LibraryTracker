@@ -66,4 +66,4 @@ Low Priority:
 - April Xu (aprilxu2)
 - Brittany Kane (blkane2)
 - Lily Sellers (lseller2)
-
+- Vaishali Khandelwal (vkhande2)
