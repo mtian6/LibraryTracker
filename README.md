@@ -36,12 +36,12 @@ Sign up for a feature or task to contribute to the project.
 
 High Priority: 
 
-- Admin login for WCS officers 
+- Admin login for WCS officers (Brittany Kane, Jenny Cheng)
 - Click to email students with overdue book reminders 
-- Automatically email students with books due in x days (Angela Lin Ding)
-- Request a Book (Robin Sturm)
+- Automatically email students with books due in x days (Angela Lin Ding, Karunya Tota)
+- Request a Book (Robin Sturm) (April Xu)
 - Pulling Book Data via Google API for auto-fill
-- Click to see who has checked out a book
+- Click to see who has checked out a book (Ranran Li, Menglin Tian)
 - Styling the entire web page with a theme that matches WCS
 - Functionality to put a book on hold 
 - Hooking up the book stats 
@@ -63,4 +63,8 @@ Low Priority:
 - Chenying He (che12)
 - Jenny Cheng (jrcheng3)
 - Karunya Tota (tota2)
+- April Xu (aprilxu2)
+- Brittany Kane (blkane2)
+- Lily Sellers (lseller2)
+- Nathan Handler (nhandle2)
 
